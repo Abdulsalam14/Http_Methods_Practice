@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http_Methods_Listener", "Http_Methods_Listener\Http_Methods_Listener.csproj", "{70431399-DE9F-434E-9E23-1686D3749AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http_Methods_Client", "Http_Methods_Client\Http_Methods_Client.csproj", "{FB5C2A63-CF56-4B27-A9DE-3F27216780CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70431399-DE9F-434E-9E23-1686D3749AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70431399-DE9F-434E-9E23-1686D3749AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70431399-DE9F-434E-9E23-1686D3749AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70431399-DE9F-434E-9E23-1686D3749AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5C2A63-CF56-4B27-A9DE-3F27216780CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5C2A63-CF56-4B27-A9DE-3F27216780CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5C2A63-CF56-4B27-A9DE-3F27216780CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5C2A63-CF56-4B27-A9DE-3F27216780CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DCB1C5-69EE-44FA-A95A-12EC4417A87B}
+	EndGlobalSection
+EndGlobal
